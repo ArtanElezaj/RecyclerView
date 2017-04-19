@@ -1,0 +1,7 @@
+#Tue Apr 18 22:47:07 EDT 2017
+base.0=C\:\\Lynda.com\\Ex_Files_Android_Apps_RESTful\\Exercise Files\\Ch04\\04_01\\RecyclerView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7771c4ef318cb7e1dab44d16c2ebab11f9c10b0c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Lynda.com\\Ex_Files_Android_Apps_RESTful\\Exercise Files\\Ch04\\04_01\\RecyclerView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0f07dc5c154c0cfee4158d9edbe166e6995d3c6a\\classes.dex
+base.1=C\:\\Lynda.com\\Ex_Files_Android_Apps_RESTful\\Exercise Files\\Ch04\\04_01\\RecyclerView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0f07dc5c154c0cfee4158d9edbe166e6995d3c6a
+file.0=C\:\\Lynda.com\\Ex_Files_Android_Apps_RESTful\\Exercise Files\\Ch04\\04_01\\RecyclerView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7771c4ef318cb7e1dab44d16c2ebab11f9c10b0c\\classes.dex
